@@ -1,0 +1,10 @@
+﻿Ad,Miktar,Bileşen
+"U1",1," Arduino Uno R3"
+"SERVO1, SERVO2",2,"Konumsal Mikro Servo"
+"BAT1",1," 9 V Pil"
+"U2",1," 5 V Regülatör [LM7805]"
+"U3",1,"PCF8574-tabanlı, 32 LCD 16 x 2 (I2C)"
+"C1",1,"0.1 uF Kapasitör"
+"C2",1,"0.33 uF Kapasitör"
+"R1, R4",2,"10 kΩ Rezistör"
+"R2, R3",2," Esnek Sensör"
